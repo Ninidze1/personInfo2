@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HomeWorkPers</string>
+    <string name="change">Change</string>
+    <string name="ninidze">Ninidze</string>
+    <string name="giorgi">Giorgi</string>
+    <string name="giorgi_ninidze_btu_edu_ge">giorgi.ninidze@btu.edu.ge</string>
+    <string name="_2002">2002</string>
+    <string name="person_info">Person Info</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="name">name</string>
+    <string name="last_name">last name</string>
+    <string name="email">email</string>
+    <string name="birth_year">birth year</string>
+    <string name="save">Save</string>
+    <string name="edit_info">Edit Info</string>
+</resources>
